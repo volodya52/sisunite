@@ -1,0 +1,4 @@
+﻿  union.cpp
+C:\Users\st310-06\Desktop\lll\union\union.cpp(26,1): warning C4624: "Anketa": деструктор неявно определен как удаленный
+C:\Users\st310-06\Desktop\lll\union\union.cpp(30,1): warning C4624: "Test": деструктор неявно определен как удаленный
+  union.vcxproj -> C:\Users\st310-06\Desktop\lll\union\x64\Debug\union.exe
